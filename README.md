@@ -1,4 +1,4 @@
-# AI-POWERED-CASH-FLOW-OPTIMIZATION-FROM-AR-PREDICTION-TO-DYNAMIC-COLLECTION-STRATEGY
+#CASH FLOW OPTIMIZATION - AR-PREDICTION - COLLECTION-STRATEGY
 This project focuses on enhancing the Accounts Receivable (AR) process using machine learning. It
 is designed to:
 1. Predict late invoice payments using supervised learning.
